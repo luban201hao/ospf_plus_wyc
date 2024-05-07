@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "ospf_dump.h": "c",
+        "type_traits": "c",
+        "prefix.h": "c",
+        "ospf_zebra.h": "c",
+        "ospf_vty.h": "c",
+        "config.h": "c",
+        "ospf_interface.h": "c",
+        "ospfd.h": "c",
+        "zebra.h": "c"
+    }
+}
